@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EitelTchap
 - 👀 I’m interested in web dev and chess
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently an intern web developer
 - 💞️ I’m looking to collaborate on learning front and end web development
 - 📫 How to reach me eiteltchapdeu@gmail.com
 
